@@ -1,3 +1,37 @@
-# Reproductor de Música
+# 🎵 Reproductor de Música
 
-![Vista del Reproductor](img/imagen-del-reproductor.png)
+Reproductor de música moderno y responsivo desarrollado con **HTML**, **CSS** y **JavaScript**. Permite reproducir pistas desde una playlist personalizada, con funciones como reproducción aleatoria, repetición, control de volumen, y diseño visual atractivo.
+
+<div align="center">
+  <img src="img/imagen-del-reproductor.png" alt="Vista del Reproductor" width="600" />
+</div>
+
+---
+
+## 🚀 Características
+
+- ▶️ Reproducción y pausa de pistas
+- 🔀 Reproducción aleatoria
+- 🔁 Modo de repetición
+- ⏭️ Cambio de pista (siguiente/anterior)
+- 🎚️ Control de volumen
+- 💅 Interfaz moderna y responsiva
+
+---
+
+## 📂 Estructura del Proyecto
+📁 music/
+├── index.html # Página principal
+├── style.css # Estilos del reproductor
+├── app.js # Lógica en JavaScript
+├── /music # Carpeta con archivos MP3
+└── /img # Imágenes del proyecto
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome (íconos)
