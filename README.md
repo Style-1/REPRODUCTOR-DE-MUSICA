@@ -1,9 +1,9 @@
 # 🎵 Reproductor de Música
 
-Reproductor de música moderno y responsivo desarrollado con **HTML**, **CSS** y **JavaScript**. Permite reproducir pistas desde una playlist personalizada, con funciones como reproducción aleatoria, repetición, control de volumen, y diseño visual atractivo.
+Reproductor de música moderno y responsivo desarrollado con **HTML**, **CSS** y **JavaScript**
 
 <div align="center">
-  <img src="img/imagen-del-reproductor.png" alt="Vista del Reproductor" width="600" />
+  <img src="img/imagen-del-reproductor.png" alt="Vista del Reproductor" width="800" />
 </div>
 
 ---
