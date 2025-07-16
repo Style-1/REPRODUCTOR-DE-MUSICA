@@ -3,7 +3,7 @@
 Reproductor de música moderno y responsivo desarrollado con **HTML**, **CSS** y **JavaScript**
 
 <div align="center">
-  <img src="img/imagen-del-reproductor.png" alt="Vista del Reproductor" width="800" />
+  <img src="img/imagen-del-reproductor.png" alt="Vista del Reproductor" width="1000" />
 </div>
 
 ---
